@@ -1,2 +1,2 @@
 # Real-Estate-MobileApp
-I made this app with using React Native
+I made this app using React Native
